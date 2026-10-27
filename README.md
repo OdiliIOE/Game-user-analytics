@@ -24,7 +24,8 @@ The conceptual funnel covers six stages: discovery, download and installation, o
 
 **Note:** Funnel figures are illustrative dummy data and should not be treated as verified conversion rates.
 
+## Author
+
+**Emmanuel Odili** · Data Analytics | Business Intelligence Portfolio
 
 [LinkedIn Profile](https://www.linkedin.com/in/odiliemmanuel)
-## Disclaimer
-This project demonstrates the application of Power BI to gaming analytics and product decision-making. Findings are based on the supplied dashboard and supporting materials and should not be interpreted as independently verified business results. Ensure you have permission to publish the dashboard and supporting materials.
