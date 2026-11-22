@@ -26,5 +26,7 @@ The conceptual funnel covers six stages: discovery, download and installation, o
 
 ## Author
 
-**Emmanuel Odili** · Data Analyst | Business Consultant
+**Emmanuel Odili** 
+
+Data Analyst | Business Consultant
 
